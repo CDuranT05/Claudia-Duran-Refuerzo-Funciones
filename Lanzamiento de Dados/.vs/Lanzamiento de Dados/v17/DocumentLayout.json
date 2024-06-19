@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\clau\\Desktop\\mis repositorios\\Claudia-Duran-Refuerzo-Funciones\\Lanzamiento de Dados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB868970-D13F-4A1F-A8C8-8D8F11B31E9A}|Lanzamiento de Dados.csproj|c:\\users\\clau\\desktop\\mis repositorios\\claudia-duran-refuerzo-funciones\\lanzamiento de dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB868970-D13F-4A1F-A8C8-8D8F11B31E9A}|Lanzamiento de Dados.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\clau\\Desktop\\mis repositorios\\Claudia-Duran-Refuerzo-Funciones\\Lanzamiento de Dados\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\clau\\Desktop\\mis repositorios\\Claudia-Duran-Refuerzo-Funciones\\Lanzamiento de Dados\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:34:27.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

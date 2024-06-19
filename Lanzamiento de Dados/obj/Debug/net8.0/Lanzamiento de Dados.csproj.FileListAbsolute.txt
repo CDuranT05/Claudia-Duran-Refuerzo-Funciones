@@ -1,0 +1,14 @@
+C:\Users\clau\source\repos\Lanzamiento de Dados\bin\Debug\net8.0\Lanzamiento de Dados.exe
+C:\Users\clau\source\repos\Lanzamiento de Dados\bin\Debug\net8.0\Lanzamiento de Dados.deps.json
+C:\Users\clau\source\repos\Lanzamiento de Dados\bin\Debug\net8.0\Lanzamiento de Dados.runtimeconfig.json
+C:\Users\clau\source\repos\Lanzamiento de Dados\bin\Debug\net8.0\Lanzamiento de Dados.dll
+C:\Users\clau\source\repos\Lanzamiento de Dados\bin\Debug\net8.0\Lanzamiento de Dados.pdb
+C:\Users\clau\source\repos\Lanzamiento de Dados\obj\Debug\net8.0\Lanzamiento de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clau\source\repos\Lanzamiento de Dados\obj\Debug\net8.0\Lanzamiento de Dados.AssemblyInfoInputs.cache
+C:\Users\clau\source\repos\Lanzamiento de Dados\obj\Debug\net8.0\Lanzamiento de Dados.AssemblyInfo.cs
+C:\Users\clau\source\repos\Lanzamiento de Dados\obj\Debug\net8.0\Lanzamiento de Dados.csproj.CoreCompileInputs.cache
+C:\Users\clau\source\repos\Lanzamiento de Dados\obj\Debug\net8.0\Lanzamiento de Dados.dll
+C:\Users\clau\source\repos\Lanzamiento de Dados\obj\Debug\net8.0\refint\Lanzamiento de Dados.dll
+C:\Users\clau\source\repos\Lanzamiento de Dados\obj\Debug\net8.0\Lanzamiento de Dados.pdb
+C:\Users\clau\source\repos\Lanzamiento de Dados\obj\Debug\net8.0\Lanzamiento de Dados.genruntimeconfig.cache
+C:\Users\clau\source\repos\Lanzamiento de Dados\obj\Debug\net8.0\ref\Lanzamiento de Dados.dll
