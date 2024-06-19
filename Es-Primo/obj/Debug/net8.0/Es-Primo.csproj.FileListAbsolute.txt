@@ -1,0 +1,14 @@
+C:\Users\clau\source\repos\Es-Primo\bin\Debug\net8.0\Es-Primo.exe
+C:\Users\clau\source\repos\Es-Primo\bin\Debug\net8.0\Es-Primo.deps.json
+C:\Users\clau\source\repos\Es-Primo\bin\Debug\net8.0\Es-Primo.runtimeconfig.json
+C:\Users\clau\source\repos\Es-Primo\bin\Debug\net8.0\Es-Primo.dll
+C:\Users\clau\source\repos\Es-Primo\bin\Debug\net8.0\Es-Primo.pdb
+C:\Users\clau\source\repos\Es-Primo\obj\Debug\net8.0\Es-Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clau\source\repos\Es-Primo\obj\Debug\net8.0\Es-Primo.AssemblyInfoInputs.cache
+C:\Users\clau\source\repos\Es-Primo\obj\Debug\net8.0\Es-Primo.AssemblyInfo.cs
+C:\Users\clau\source\repos\Es-Primo\obj\Debug\net8.0\Es-Primo.csproj.CoreCompileInputs.cache
+C:\Users\clau\source\repos\Es-Primo\obj\Debug\net8.0\Es-Primo.dll
+C:\Users\clau\source\repos\Es-Primo\obj\Debug\net8.0\refint\Es-Primo.dll
+C:\Users\clau\source\repos\Es-Primo\obj\Debug\net8.0\Es-Primo.pdb
+C:\Users\clau\source\repos\Es-Primo\obj\Debug\net8.0\Es-Primo.genruntimeconfig.cache
+C:\Users\clau\source\repos\Es-Primo\obj\Debug\net8.0\ref\Es-Primo.dll
