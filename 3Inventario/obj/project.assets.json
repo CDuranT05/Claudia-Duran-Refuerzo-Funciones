@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\clau\\source\\repos\\Inventario\\Inventario.csproj",
+      "projectUniqueName": "C:\\Users\\clau\\Desktop\\mis repositorios\\Claudia-Duran-Refuerzo-Funciones\\3Inventario\\Inventario.csproj",
       "projectName": "Inventario",
-      "projectPath": "C:\\Users\\clau\\source\\repos\\Inventario\\Inventario.csproj",
+      "projectPath": "C:\\Users\\clau\\Desktop\\mis repositorios\\Claudia-Duran-Refuerzo-Funciones\\3Inventario\\Inventario.csproj",
       "packagesPath": "C:\\Users\\clau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\clau\\source\\repos\\Inventario\\obj\\",
+      "outputPath": "C:\\Users\\clau\\Desktop\\mis repositorios\\Claudia-Duran-Refuerzo-Funciones\\3Inventario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

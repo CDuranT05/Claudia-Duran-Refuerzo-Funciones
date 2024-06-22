@@ -23,6 +23,21 @@ while (jugar)
         
         Console.WriteLine(value:"el primer resultado del lanzamiento es: " + LanzarDados());
         Console.WriteLine(value: "el segundo resultado del lanzamiento es: " + LanzarDados());
+        Console.WriteLine("Quieres volver a lanzar? pulsa L");
+        usuario = Console.ReadLine();
+        while (jugar)
+        {
+            if (usuario == "L") {
+                Console.WriteLine(value: "el primer resultado del lanzamiento es: " + LanzarDados());
+                Console.WriteLine(value: "el segundo resultado del lanzamiento es: " + LanzarDados());
+            }
+            else
+            {
+                jugar = false;
+                break;
+            }
+        }
+
     }
     else if(usuario == "S")
     {
